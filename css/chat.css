@@ -1,0 +1,17 @@
+.container{
+    background-color: rgb(203, 130, 130);
+    height: 800px;
+    width:1200px;
+    margin-left: 100px;
+}
+
+.img1{
+    display: flex;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 100px;
+    height: 500px;
+    transition: 100s;
+    border: 10px solid black;
+}
+
